@@ -16,7 +16,7 @@ All of this data is securely stored in my MongoDB database, which maintains a tr
 
 What ties it all together is the Next.js frontend. Here, I get a beautiful, intuitive dashboard where everything is automatically organized: tasks are sorted into priority buckets, deadlines and urgency are visually highlighted, and my daily schedule adapts as circumstances change. If a new urgent task appears, the system dynamically reshuffles my priorities and adjusts my calendar to ensure nothing slips through the cracks.
 
-## Technology Stack: My Confident Choices
+## Technology Stack
 
 I've deliberately chosen a stack that's both modern and robust. Next.js powers the frontend, delivering a blazing-fast, reactive interface that feels as smooth as any native app. MongoDB is my data store of choice, providing flexible, scalable, and reliable storage for all user and task data. The heart of the intelligence is Gemini AI/Deepseek AI, which handles natural language understanding and prioritization, while Node.js/Express acts as the glue, orchestrating secure API calls between all components. For real-world integration, I've implemented OAuth2 for Google Calendar, and set up Gmail API hooks for seamless email-to-task conversion. Deployment on Netlify ensures my system scales effortlessly and remains accessible for users everywhere.
 
