@@ -23,7 +23,7 @@ I've deliberately chosen a stack that's both modern and robust. Next.js powers t
 ## System Architecture
 
 Below is a visual representation of my system architecture, showing how each component interacts to deliver a seamless, automated, and intelligent task management experience:
-![image1](diagram1.png)
+![image1](https://github.com/kstubhieeee/codetolearn/blob/main/diagram1.png)
 
 ## Impact and Scalability
 
